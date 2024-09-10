@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(223, 17, 17);
+    color: rgb(0, 68, 255);
+    font-family: "Playwrite CU", system-ui;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+button{
+    background-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+}
